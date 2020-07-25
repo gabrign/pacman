@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=inicialX\ inicialY\ nombreImagen
+comment0.target=ObjetoNivel(int,\ int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ objetoNivel\r\n
+comment1.params=imagenStr
+comment1.target=java.awt.Image\ cargarImagen(java.lang.String)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=java.awt.Image\ getImage()
+comment5.params=
+comment5.target=java.awt.Rectangle\ getBounds()
+comment6.params=
+comment6.target=boolean\ visible()
+numComments=7

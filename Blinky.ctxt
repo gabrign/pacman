@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Blinky(int,\ int)
+comment1.params=pacX\ pacY
+comment1.target=void\ perseguir(int,\ int)
+numComments=2
